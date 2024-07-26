@@ -18,7 +18,7 @@ if (inputvalue === '') {
 //2. crossing out an item from the list
 
 function crossOut() {
-    li.ClassList.toggleClass("strike");
+    li.toggleClass("strike");
 }
 
 
